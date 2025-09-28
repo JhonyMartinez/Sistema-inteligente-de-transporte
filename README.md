@@ -24,7 +24,7 @@ Este sistema calcula la mejor ruta entre estaciones de TransMilenio usando el si
 
 ## Para ejecutarlo
 cd ruta-transmilenio/src
-python tests.py
+python tests.py (Este ejecuta 4 escenarios previamente definidos)
 
 python main.py --start PN --goal C85
 
