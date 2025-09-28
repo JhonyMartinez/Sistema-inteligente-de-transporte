@@ -1,0 +1,14 @@
+[
+  {"from": "PN",   "to": "C142", "time": 5, "line": "NORTE", "distance": 1.8, "accessible": true},
+  {"from": "C142", "to": "C127", "time": 4, "line": "NORTE", "distance": 1.4, "accessible": true},
+  {"from": "C127", "to": "C106", "time": 5, "line": "NORTE", "distance": 1.6, "accessible": true},
+  {"from": "C106", "to": "C100", "time": 3, "line": "NORTE", "distance": 1.0, "accessible": true},
+  {"from": "C100", "to": "VIRREY", "time": 4, "line": "NORTE", "distance": 1.2, "accessible": true},
+  {"from": "VIRREY","to": "C85",  "time": 3, "line": "NORTE", "distance": 0.9, "accessible": true},
+
+  {"from": "P80",  "to": "C100", "time": 8, "line": "OESTE", "distance": 2.3, "accessible": true},
+  {"from": "P80",  "to": "C127", "time": 10, "line": "OESTE", "distance": 3.0, "accessible": true},
+
+  {"from": "PS",   "to": "PA",   "time": 12, "line": "SUR",  "distance": 4.0, "accessible": false},
+  {"from": "PA",   "to": "C85",  "time": 9,  "line": "SUR",  "distance": 3.1, "accessible": false}
+]

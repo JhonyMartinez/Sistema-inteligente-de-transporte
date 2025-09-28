@@ -1,0 +1,12 @@
+{
+  "PN": {"name": "Portal Norte"},
+  "C142": {"name": "Calle 142"},
+  "C127": {"name": "Calle 127"},
+  "C106": {"name": "Calle 106"},
+  "C100": {"name": "Calle 100"},
+  "VIRREY": {"name": "Virrey"},
+  "C85": {"name": "Calle 85"},
+  "P80": {"name": "Portal de la 80"},
+  "PS": {"name": "Portal Sur"},
+  "PA": {"name": "Portal Américas"}
+}

@@ -1,0 +1,17 @@
+{
+  "transfer_penalty": 4.0,
+  "avoid_lines": ["SUR"],
+  "avoid_line_multiplier": 5.0,
+  "prefer_lines": ["NORTE"],
+  "prefer_line_multiplier": 0.85,
+  "require_accessible": true,
+  "distance_factor": 0.0,
+  "peak": {
+    "enabled": true,
+    "multiplier_by_line": {
+      "NORTE": 1.15,
+      "OESTE": 1.25,
+      "SUR": 1.3
+    }
+  }
+}
